@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" preserveAspectRatio="none" fill="none">
+<defs>
+<linearGradient id="gA" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6bbf45" stop-opacity=".55"/><stop offset=".35" stop-color="#2fa84f"/><stop offset=".75" stop-color="#6bbf45"/><stop offset="1" stop-color="#6bbf45" stop-opacity="0"/></linearGradient>
+<linearGradient id="gB" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f9d8a" stop-opacity=".45"/><stop offset=".5" stop-color="#1f9d8a"/><stop offset="1" stop-color="#2fa84f" stop-opacity="0"/></linearGradient>
+<linearGradient id="gL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9bd84e" stop-opacity=".4"/><stop offset=".5" stop-color="#6bbf45"/><stop offset="1" stop-color="#9bd84e" stop-opacity="0"/></linearGradient>
+<linearGradient id="gD" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#008f3c" stop-opacity=".4"/><stop offset=".5" stop-color="#006b2d"/><stop offset="1" stop-color="#008f3c" stop-opacity="0"/></linearGradient>
+<linearGradient id="rb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6bbf45" stop-opacity="0"/><stop offset=".45" stop-color="#6bbf45" stop-opacity=".16"/><stop offset="1" stop-color="#008f3c" stop-opacity="0"/></linearGradient>
+<linearGradient id="rt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f9d8a" stop-opacity="0"/><stop offset=".5" stop-color="#1f9d8a" stop-opacity=".11"/><stop offset="1" stop-color="#6bbf45" stop-opacity="0"/></linearGradient>
+<filter id="bl" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<path d="M-60.0 360.0 C 300.0 290.0, 800.0 470.0, 1260.0 350.0 L1260.0 416.5 C 807.0 515.5, 307.0 370.5, -60.0 423.0 Z" fill="url(#rb)" filter="url(#bl)"/><path d="M-60.0 432.0 C 308.0 382.0, 808.0 522.0, 1260.0 426.0 L1260.0 521.0 C 818.0 587.0, 318.0 497.0, -60.0 522.0 Z" fill="url(#rt)" filter="url(#bl)"/><path d="M-60.0 131.0 C 360.0 92.0, 782.0 240.0, 1260.0 160.0 L1260.0 230.0 C 796.0 310.0, 360.0 176.0, -60.0 208.0 Z" fill="url(#rb)" filter="url(#bl)"/><path vector-effect="non-scaling-stroke" d="M-60.0 360.0 C 300.0 290.0, 800.0 470.0, 1260.0 350.0" stroke="url(#gD)" stroke-opacity="0.06" stroke-width="0.60"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 367.8 C 300.9 300.0, 800.9 475.7, 1260.0 358.3" stroke="url(#gD)" stroke-opacity="0.08" stroke-width="0.67"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 375.7 C 301.7 310.0, 801.7 481.3, 1260.0 366.5" stroke="url(#gD)" stroke-opacity="0.11" stroke-width="0.73"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 383.5 C 302.6 320.0, 802.6 487.0, 1260.0 374.8" stroke="url(#gD)" stroke-opacity="0.13" stroke-width="0.80"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 391.3 C 303.5 330.0, 803.5 492.6, 1260.0 383.0" stroke="url(#gD)" stroke-opacity="0.16" stroke-width="0.86"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 399.1 C 304.3 340.0, 804.3 498.3, 1260.0 391.3" stroke="url(#gD)" stroke-opacity="0.18" stroke-width="0.92"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 407.0 C 305.2 350.0, 805.2 503.9, 1260.0 399.6" stroke="url(#gD)" stroke-opacity="0.20" stroke-width="0.97"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 414.8 C 306.1 360.0, 806.1 509.6, 1260.0 407.8" stroke="url(#gD)" stroke-opacity="0.22" stroke-width="1.01"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 422.6 C 307.0 370.0, 807.0 515.2, 1260.0 416.1" stroke="url(#gD)" stroke-opacity="0.24" stroke-width="1.04"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 430.4 C 307.8 380.0, 807.8 520.9, 1260.0 424.3" stroke="url(#gD)" stroke-opacity="0.25" stroke-width="1.07"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 438.3 C 308.7 390.0, 808.7 526.5, 1260.0 432.6" stroke="url(#gD)" stroke-opacity="0.26" stroke-width="1.09"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 446.1 C 309.6 400.0, 809.6 532.2, 1260.0 440.9" stroke="url(#gD)" stroke-opacity="0.26" stroke-width="1.10"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 453.9 C 310.4 410.0, 810.4 537.8, 1260.0 449.1" stroke="url(#gD)" stroke-opacity="0.26" stroke-width="1.10"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 461.7 C 311.3 420.0, 811.3 543.5, 1260.0 457.4" stroke="url(#gD)" stroke-opacity="0.26" stroke-width="1.09"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 469.6 C 312.2 430.0, 812.2 549.1, 1260.0 465.7" stroke="url(#gD)" stroke-opacity="0.25" stroke-width="1.07"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 477.4 C 313.0 440.0, 813.0 554.8, 1260.0 473.9" stroke="url(#gD)" stroke-opacity="0.24" stroke-width="1.04"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 485.2 C 313.9 450.0, 813.9 560.4, 1260.0 482.2" stroke="url(#gD)" stroke-opacity="0.22" stroke-width="1.01"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 493.0 C 314.8 460.0, 814.8 566.1, 1260.0 490.4" stroke="url(#gD)" stroke-opacity="0.20" stroke-width="0.97"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 500.9 C 315.7 470.0, 815.7 571.7, 1260.0 498.7" stroke="url(#gD)" stroke-opacity="0.18" stroke-width="0.92"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 508.7 C 316.5 480.0, 816.5 577.4, 1260.0 507.0" stroke="url(#gD)" stroke-opacity="0.16" stroke-width="0.86"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 516.5 C 317.4 490.0, 817.4 583.0, 1260.0 515.2" stroke="url(#gD)" stroke-opacity="0.13" stroke-width="0.80"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 524.3 C 318.3 500.0, 818.3 588.7, 1260.0 523.5" stroke="url(#gD)" stroke-opacity="0.11" stroke-width="0.73"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 532.2 C 319.1 510.0, 819.1 594.3, 1260.0 531.7" stroke="url(#gD)" stroke-opacity="0.08" stroke-width="0.67"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 540.0 C 320.0 520.0, 820.0 600.0, 1260.0 540.0" stroke="url(#gD)" stroke-opacity="0.06" stroke-width="0.60"/><path vector-effect="non-scaling-stroke" d="M-60.0 120.0 C 360.0 80.0, 780.0 230.0, 1260.0 150.0" stroke="url(#gA)" stroke-opacity="0.05" stroke-width="0.60"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 128.5 C 360.0 89.2, 781.5 237.7, 1260.0 157.7" stroke="url(#gA)" stroke-opacity="0.08" stroke-width="0.70"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 136.9 C 360.0 98.5, 783.1 245.4, 1260.0 165.4" stroke="url(#gA)" stroke-opacity="0.11" stroke-width="0.79"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 145.4 C 360.0 107.7, 784.6 253.1, 1260.0 173.1" stroke="url(#gA)" stroke-opacity="0.15" stroke-width="0.87"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 153.8 C 360.0 116.9, 786.2 260.8, 1260.0 180.8" stroke="url(#gA)" stroke-opacity="0.17" stroke-width="0.93"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 162.3 C 360.0 126.2, 787.7 268.5, 1260.0 188.5" stroke="url(#gA)" stroke-opacity="0.19" stroke-width="0.97"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 170.8 C 360.0 135.4, 789.2 276.2, 1260.0 196.2" stroke="url(#gA)" stroke-opacity="0.20" stroke-width="1.00"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 179.2 C 360.0 144.6, 790.8 283.8, 1260.0 203.8" stroke="url(#gA)" stroke-opacity="0.20" stroke-width="1.00"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 187.7 C 360.0 153.8, 792.3 291.5, 1260.0 211.5" stroke="url(#gA)" stroke-opacity="0.19" stroke-width="0.97"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 196.2 C 360.0 163.1, 793.8 299.2, 1260.0 219.2" stroke="url(#gA)" stroke-opacity="0.17" stroke-width="0.93"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 204.6 C 360.0 172.3, 795.4 306.9, 1260.0 226.9" stroke="url(#gA)" stroke-opacity="0.15" stroke-width="0.87"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 213.1 C 360.0 181.5, 796.9 314.6, 1260.0 234.6" stroke="url(#gA)" stroke-opacity="0.11" stroke-width="0.79"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 221.5 C 360.0 190.8, 798.5 322.3, 1260.0 242.3" stroke="url(#gA)" stroke-opacity="0.08" stroke-width="0.70"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 230.0 C 360.0 200.0, 800.0 330.0, 1260.0 250.0" stroke="url(#gA)" stroke-opacity="0.05" stroke-width="0.60"/>
+</svg>

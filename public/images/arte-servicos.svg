@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" preserveAspectRatio="none" fill="none">
+<defs>
+<linearGradient id="gA" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6bbf45" stop-opacity=".55"/><stop offset=".35" stop-color="#2fa84f"/><stop offset=".75" stop-color="#6bbf45"/><stop offset="1" stop-color="#6bbf45" stop-opacity="0"/></linearGradient>
+<linearGradient id="gB" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f9d8a" stop-opacity=".45"/><stop offset=".5" stop-color="#1f9d8a"/><stop offset="1" stop-color="#2fa84f" stop-opacity="0"/></linearGradient>
+<linearGradient id="gL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9bd84e" stop-opacity=".4"/><stop offset=".5" stop-color="#6bbf45"/><stop offset="1" stop-color="#9bd84e" stop-opacity="0"/></linearGradient>
+<linearGradient id="gD" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#008f3c" stop-opacity=".4"/><stop offset=".5" stop-color="#006b2d"/><stop offset="1" stop-color="#008f3c" stop-opacity="0"/></linearGradient>
+<linearGradient id="rb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6bbf45" stop-opacity="0"/><stop offset=".45" stop-color="#6bbf45" stop-opacity=".16"/><stop offset="1" stop-color="#008f3c" stop-opacity="0"/></linearGradient>
+<linearGradient id="rt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f9d8a" stop-opacity="0"/><stop offset=".5" stop-color="#1f9d8a" stop-opacity=".11"/><stop offset="1" stop-color="#6bbf45" stop-opacity="0"/></linearGradient>
+<filter id="bl" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<path d="M-60.0 140.0 C 412.0 148.0, 528.0 504.0, 1260.0 476.0 L1260.0 404.0 C 552.0 456.0, 388.0 262.0, -60.0 230.0 Z" fill="url(#rb)" filter="url(#bl)"/><path d="M-60.0 534.0 C 384.0 534.0, 528.0 112.0, 1260.0 134.0 L1260.0 206.0 C 552.0 178.0, 396.0 456.0, -60.0 456.0 Z" fill="url(#rt)" filter="url(#bl)"/><path vector-effect="non-scaling-stroke" d="M-60.0 110.0 C 420.0 110.0, 520.0 520.0, 1260.0 500.0" stroke="url(#gA)" stroke-opacity="0.07" stroke-width="0.60"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 116.0 C 418.4 117.6, 521.6 516.8, 1260.0 495.2" stroke="url(#gA)" stroke-opacity="0.09" stroke-width="0.68"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 122.0 C 416.8 125.2, 523.2 513.6, 1260.0 490.4" stroke="url(#gA)" stroke-opacity="0.12" stroke-width="0.76"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 128.0 C 415.2 132.8, 524.8 510.4, 1260.0 485.6" stroke="url(#gA)" stroke-opacity="0.14" stroke-width="0.84"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 134.0 C 413.6 140.4, 526.4 507.2, 1260.0 480.8" stroke="url(#gA)" stroke-opacity="0.16" stroke-width="0.91"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 140.0 C 412.0 148.0, 528.0 504.0, 1260.0 476.0" stroke="url(#gA)" stroke-opacity="0.19" stroke-width="0.98"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 146.0 C 410.4 155.6, 529.6 500.8, 1260.0 471.2" stroke="url(#gA)" stroke-opacity="0.21" stroke-width="1.04"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 152.0 C 408.8 163.2, 531.2 497.6, 1260.0 466.4" stroke="url(#gA)" stroke-opacity="0.23" stroke-width="1.10"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 158.0 C 407.2 170.8, 532.8 494.4, 1260.0 461.6" stroke="url(#gA)" stroke-opacity="0.24" stroke-width="1.15"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 164.0 C 405.6 178.4, 534.4 491.2, 1260.0 456.8" stroke="url(#gA)" stroke-opacity="0.26" stroke-width="1.19"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 170.0 C 404.0 186.0, 536.0 488.0, 1260.0 452.0" stroke="url(#gA)" stroke-opacity="0.27" stroke-width="1.22"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 176.0 C 402.4 193.6, 537.6 484.8, 1260.0 447.2" stroke="url(#gA)" stroke-opacity="0.28" stroke-width="1.24"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 182.0 C 400.8 201.2, 539.2 481.6, 1260.0 442.4" stroke="url(#gA)" stroke-opacity="0.28" stroke-width="1.25"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 188.0 C 399.2 208.8, 540.8 478.4, 1260.0 437.6" stroke="url(#gA)" stroke-opacity="0.28" stroke-width="1.25"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 194.0 C 397.6 216.4, 542.4 475.2, 1260.0 432.8" stroke="url(#gA)" stroke-opacity="0.28" stroke-width="1.24"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 200.0 C 396.0 224.0, 544.0 472.0, 1260.0 428.0" stroke="url(#gA)" stroke-opacity="0.27" stroke-width="1.22"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 206.0 C 394.4 231.6, 545.6 468.8, 1260.0 423.2" stroke="url(#gA)" stroke-opacity="0.26" stroke-width="1.19"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 212.0 C 392.8 239.2, 547.2 465.6, 1260.0 418.4" stroke="url(#gA)" stroke-opacity="0.24" stroke-width="1.15"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 218.0 C 391.2 246.8, 548.8 462.4, 1260.0 413.6" stroke="url(#gA)" stroke-opacity="0.23" stroke-width="1.10"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 224.0 C 389.6 254.4, 550.4 459.2, 1260.0 408.8" stroke="url(#gA)" stroke-opacity="0.21" stroke-width="1.04"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 230.0 C 388.0 262.0, 552.0 456.0, 1260.0 404.0" stroke="url(#gA)" stroke-opacity="0.19" stroke-width="0.98"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 236.0 C 386.4 269.6, 553.6 452.8, 1260.0 399.2" stroke="url(#gA)" stroke-opacity="0.16" stroke-width="0.91"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 242.0 C 384.8 277.2, 555.2 449.6, 1260.0 394.4" stroke="url(#gA)" stroke-opacity="0.14" stroke-width="0.84"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 248.0 C 383.2 284.8, 556.8 446.4, 1260.0 389.6" stroke="url(#gA)" stroke-opacity="0.12" stroke-width="0.76"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 254.0 C 381.6 292.4, 558.4 443.2, 1260.0 384.8" stroke="url(#gA)" stroke-opacity="0.09" stroke-width="0.68"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 260.0 C 380.0 300.0, 560.0 440.0, 1260.0 380.0" stroke="url(#gA)" stroke-opacity="0.07" stroke-width="0.60"/><path vector-effect="non-scaling-stroke" d="M-60.0 560.0 C 380.0 560.0, 520.0 90.0, 1260.0 110.0" stroke="url(#gB)" stroke-opacity="0.07" stroke-width="0.60"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 554.8 C 380.8 554.8, 521.6 94.4, 1260.0 114.8" stroke="url(#gB)" stroke-opacity="0.09" stroke-width="0.68"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 549.6 C 381.6 549.6, 523.2 98.8, 1260.0 119.6" stroke="url(#gB)" stroke-opacity="0.11" stroke-width="0.76"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 544.4 C 382.4 544.4, 524.8 103.2, 1260.0 124.4" stroke="url(#gB)" stroke-opacity="0.13" stroke-width="0.84"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 539.2 C 383.2 539.2, 526.4 107.6, 1260.0 129.2" stroke="url(#gB)" stroke-opacity="0.16" stroke-width="0.91"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 534.0 C 384.0 534.0, 528.0 112.0, 1260.0 134.0" stroke="url(#gB)" stroke-opacity="0.18" stroke-width="0.98"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 528.8 C 384.8 528.8, 529.6 116.4, 1260.0 138.8" stroke="url(#gB)" stroke-opacity="0.20" stroke-width="1.04"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 523.6 C 385.6 523.6, 531.2 120.8, 1260.0 143.6" stroke="url(#gB)" stroke-opacity="0.21" stroke-width="1.10"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 518.4 C 386.4 518.4, 532.8 125.2, 1260.0 148.4" stroke="url(#gB)" stroke-opacity="0.23" stroke-width="1.15"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 513.2 C 387.2 513.2, 534.4 129.6, 1260.0 153.2" stroke="url(#gB)" stroke-opacity="0.24" stroke-width="1.19"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 508.0 C 388.0 508.0, 536.0 134.0, 1260.0 158.0" stroke="url(#gB)" stroke-opacity="0.25" stroke-width="1.22"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 502.8 C 388.8 502.8, 537.6 138.4, 1260.0 162.8" stroke="url(#gB)" stroke-opacity="0.26" stroke-width="1.24"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 497.6 C 389.6 497.6, 539.2 142.8, 1260.0 167.6" stroke="url(#gB)" stroke-opacity="0.26" stroke-width="1.25"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 492.4 C 390.4 492.4, 540.8 147.2, 1260.0 172.4" stroke="url(#gB)" stroke-opacity="0.26" stroke-width="1.25"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 487.2 C 391.2 487.2, 542.4 151.6, 1260.0 177.2" stroke="url(#gB)" stroke-opacity="0.26" stroke-width="1.24"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 482.0 C 392.0 482.0, 544.0 156.0, 1260.0 182.0" stroke="url(#gB)" stroke-opacity="0.25" stroke-width="1.22"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 476.8 C 392.8 476.8, 545.6 160.4, 1260.0 186.8" stroke="url(#gB)" stroke-opacity="0.24" stroke-width="1.19"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 471.6 C 393.6 471.6, 547.2 164.8, 1260.0 191.6" stroke="url(#gB)" stroke-opacity="0.23" stroke-width="1.15"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 466.4 C 394.4 466.4, 548.8 169.2, 1260.0 196.4" stroke="url(#gB)" stroke-opacity="0.21" stroke-width="1.10"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 461.2 C 395.2 461.2, 550.4 173.6, 1260.0 201.2" stroke="url(#gB)" stroke-opacity="0.20" stroke-width="1.04"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 456.0 C 396.0 456.0, 552.0 178.0, 1260.0 206.0" stroke="url(#gB)" stroke-opacity="0.18" stroke-width="0.98"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 450.8 C 396.8 450.8, 553.6 182.4, 1260.0 210.8" stroke="url(#gB)" stroke-opacity="0.16" stroke-width="0.91"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 445.6 C 397.6 445.6, 555.2 186.8, 1260.0 215.6" stroke="url(#gB)" stroke-opacity="0.13" stroke-width="0.84"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 440.4 C 398.4 440.4, 556.8 191.2, 1260.0 220.4" stroke="url(#gB)" stroke-opacity="0.11" stroke-width="0.76"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 435.2 C 399.2 435.2, 558.4 195.6, 1260.0 225.2" stroke="url(#gB)" stroke-opacity="0.09" stroke-width="0.68"/>
+<path vector-effect="non-scaling-stroke" d="M-60.0 430.0 C 400.0 430.0, 560.0 200.0, 1260.0 230.0" stroke="url(#gB)" stroke-opacity="0.07" stroke-width="0.60"/>
+</svg>
